@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Lake桑的存档馆
 // @namespace    https://lakejason0.wordpress.com/
-// @contributionURL    https://github.com/lakejason0/lakejason0.wordpress.com
+// @home-url2    https://github.com/lakejason0/lakejason0.wordpress.com
 // @include      https://lakejason0.wordpress.com/*
 // @include      http://lakejason0.wordpress.com/*
 // @version      0.1
